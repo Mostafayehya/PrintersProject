@@ -1,7 +1,7 @@
-public class MostafaPrinter{
+public class PrinterA{
 	
 	
-	public void print(){
+	public static void print(){
 		
 		System.out.println("change #1 from mostafa");
 		System.out.println("change #2 from mostafa");
