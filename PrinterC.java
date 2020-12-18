@@ -1,4 +1,5 @@
-class PrintBasiony{
+class PrinterC{
+	
 	public static void print()
 	{
 		System.out.print("Basiony");

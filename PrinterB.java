@@ -1,4 +1,4 @@
-class PrintSalma{
+class PrinterB{
 	public static void print()
 	{
 
