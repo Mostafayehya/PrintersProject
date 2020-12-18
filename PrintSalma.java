@@ -1,6 +1,6 @@
 class PrintSalma{
 	public static void print_salma()
 	{
-		System.out.print("Salma");
+		System.out.print("Salma is here");
 	}
 }
