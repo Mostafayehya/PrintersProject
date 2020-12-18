@@ -1,6 +1,6 @@
 class PrintSalma{
 	public static void print()
 	{
-		System.out.print("Salma's third change");
+		System.out.print("Salma's fourh change");
 	}
 }
